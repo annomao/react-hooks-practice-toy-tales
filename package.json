@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1"
+    "react-scripts": "4.0.1",
+    "react-uuid": "^1.0.2",
+    "uuidv4": "^6.2.13"
   },
   "devDependencies": {
     "json-server": "^0.15.1"
